@@ -1,0 +1,29 @@
+{
+  "name": "string-replace-keys",
+  "version": "1.0.0",
+  "description": "Replace all substring matches in a string by object keys",
+  "scripts": {
+    "test": "jest ./test"
+  },
+  "repository": "https://github.com/andres3dc/string-replace-keys",
+  "keywords": [
+    "search",
+		"replaceall",
+    "string",
+    "replace",
+    "match",
+		"matches",
+    "text",
+    "object",
+    "keys"
+  ],
+  "author": "Andres Florez <andres3dc@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.20.2",
+    "@babel/preset-typescript": "^7.21.0",
+    "@jest/globals": "^29.5.0",
+    "jest": "^29.5.0",
+    "ts-jest": "^29.0.5"
+  }
+}
